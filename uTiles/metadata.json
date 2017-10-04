@@ -1,9 +1,0 @@
-{
-    "description": "reservation land", 
-    "bounds": "-77.1232,37.9911,-77.1013,38.0051", 
-    "minzoom": "4", 
-    "version": "1.0.0", 
-    "template": "", 
-    "maxzoom": "19", 
-    "name": "Reservation"
-}
